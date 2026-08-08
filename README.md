@@ -28,11 +28,10 @@
 ## About Me
 - Currently learning: **Python**, **C**, and **Web Development**
 - Interested in: **DSA**, **open-source**, **UI design**, and **creative projects**
-- Style I like: dark, minimal, premium, and not cluttered
 
 ## Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,git,github,vscode,figma" />
 </p>
 
 ## Current Focus
@@ -42,10 +41,7 @@
   <img src="https://img.shields.io/badge/Practicing-DSA-111827?style=for-the-badge" />
 </p>
 
-## Projects
-- [Project One](https://github.com/Subhashx17/project-1) — short description
-- [Project Two](https://github.com/Subhashx17/project-2) — short description
-- [Project Three](https://github.com/Subhashx17/project-3) — short description
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:4c1d95,100:0f172a&height=130&section=footer" />
