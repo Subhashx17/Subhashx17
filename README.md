@@ -1,53 +1,127 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4c1d95,100:ec4899&height=220&section=header&text=Subhash%20Koppula&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
+<!-- =========================
+     SUBHASHX17 • GITHUB README
+     ========================= -->
+
+<h1 align="center">Subhash Koppula</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=BB86FC&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Problem+Solver;Builder+%26+Learner;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Learning_and_Building-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-DSA_%26_Development-EC4899?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Theme-Dark_Premium-111827?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subhashx17&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhashx17&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <code>Computer Science Student</code>
+  &nbsp;•&nbsp;
+  <code>Problem Solver</code>
+  &nbsp;•&nbsp;
+  <code>Builder</code>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhashx17&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Subhashx17">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/sai-subhash-koppula-59b8193a1//">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:saisubhashkoppula@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=white">
+  </a>
 </p>
+
+---
+
+## `> whoami`
+
+I'm **Subhash**, a Computer Science student interested in
+building things, solving problems, and learning how technology works.
+
+Currently exploring:
+
+- `C`
+- `Python`
+- `DSA`
+- `Web Development`
+
+---
+
+## `> tech_stack`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhashx17&theme=tokyo-night&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,git,github,vscode,figma" />
 </p>
 
-## About Me
-- Currently learning: **Python**, **C**, and **Web Development**
-- Interested in: **DSA**, **open-source**, **UI design**, and **creative projects**
+---
 
-## Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,git,github,vscode,figma" />
-</p>
+## `> current_focus`
 
-## Current Focus
-<p>
-  <img src="https://img.shields.io/badge/Learning-Python-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Building-Projects-EC4899?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Practicing-DSA-111827?style=for-the-badge" />
-</p>
+<table width="100%">
+<tr>
+<td align="center">
 
+**01**
 
+<br>
+
+`Learning Python`
+
+</td>
+
+<td align="center">
+
+**02**
+
+<br>
+
+`Practicing DSA`
+
+</td>
+
+<td align="center">
+
+**03**
+
+<br>
+
+`Building Projects`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> github_stats`
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:4c1d95,100:0f172a&height=130&section=footer" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Subhashx17&show_icons=true&hide_border=true&theme=transparent&title_color=bb86fc&text_color=c9d1d9&icon_color=bb86fc"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhashx17&layout=compact&hide_border=true&theme=transparent&title_color=bb86fc&text_color=c9d1d9"
+    height="160"
+  />
 </p>
 
+---
 
+## `> contribution_activity`
 
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Subhashx17&bg_color=0d1117&color=bb86fc&line=8b5cf6&point=ec4899&area=true&hide_border=true"
+    width="100%"
+  />
+</p>
 
-remove the things in the pic from this code
+---
+
+## `> projects`
+
+| Project | Description |
+| :--- | :--- |
+| **Project 01** | Something I'm building |
+| **Project 02** | Something I'm experimenting with |
+| **Project 03** | Something I'm learning from |
+
+---
+
+<p align="center">
+  <sub>Code • Learn • Build • Repeat.</sub>
+</p>
