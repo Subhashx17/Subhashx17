@@ -3,26 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=BB86FC&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Problem+Solver;Builder+%26+Learner;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Status-Learning_and_Building-8B5CF6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-DSA_%26_Development-EC4899?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Theme-Dark_Premium-111827?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subhashx17&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhashx17&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhashx17&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhashx17&theme=tokyo-night&hide_border=true" />
 </p>
 
 ## About Me
@@ -40,8 +23,6 @@
   <img src="https://img.shields.io/badge/Building-Projects-EC4899?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Practicing-DSA-111827?style=for-the-badge" />
 </p>
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:4c1d95,100:0f172a&height=130&section=footer" />
