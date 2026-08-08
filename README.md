@@ -46,3 +46,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:4c1d95,100:0f172a&height=130&section=footer" />
 </p>
+
+
+
+
+remove the things in the pic from this code
