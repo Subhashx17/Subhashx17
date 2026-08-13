@@ -26,7 +26,7 @@
 
 ---
 
-## `> whoami`
+## `> who am i?`
 
 I'm **Subhash**, a Computer Science student interested in
 building things, solving problems, and learning how technology works.
@@ -43,7 +43,7 @@ Currently exploring:
 ## `> tech_stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=c,html,css,git,github,vscode,figma" />
 </p>
 
 ---
