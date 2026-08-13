@@ -58,7 +58,7 @@ Currently exploring:
 
 <br>
 
-`Learning Python`
+`Learning C`
 
 </td>
 
