@@ -123,24 +123,6 @@ I'm currently focused on:
 
 ---
 
-## `> github_stats`
-
-<p align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Subhashx17&show_icons=true&hide_border=true&theme=transparent&title_color=bb86fc&text_color=c9d1d9&icon_color=bb86fc"
-  height="160"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhashx17&layout=compact&hide_border=true&theme=transparent&title_color=bb86fc&text_color=c9d1d9"
-  height="160"
-/>
-
-</p>
-
----
-
 ## `> contribution_activity`
 
 <p align="center">
