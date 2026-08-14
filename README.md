@@ -16,7 +16,7 @@
   <a href="https://github.com/Subhashx17">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/sai-subhash-koppula-59b8193a1//">
+  <a href="https://www.linkedin.com/in/sai-subhash-koppula-59b8193a1">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:saisubhashkoppula@gmail.com">
