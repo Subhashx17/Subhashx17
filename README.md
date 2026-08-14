@@ -26,61 +26,98 @@
 
 ---
 
+<table>
+<tr>
+<td width="28%" align="center" valign="middle">
+
+<img
+  src="https://github.com/Subhashx17.png"
+  width="180"
+  alt="Subhash Koppula"
+/>
+
+<br><br>
+
+<code>subhashx17</code>
+
+</td>
+
+<td width="72%" valign="middle">
+
 ## `> who am i?`
 
-I'm **Subhash**, a Computer Science student interested in
-building things, solving problems, and learning how technology works.
+Hey, I'm **Subhash** 👋
 
-Currently exploring:
+I'm a Computer Science student who enjoys understanding
+how things work, solving problems, and turning ideas into
+projects.
+
+I'm currently focused on:
 
 - `C`
 - `Python`
 - `DSA`
 - `Web Development`
 
+<br>
+
+**Currently:** learning → building → breaking things → fixing them.
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## `> tech_stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,html,css,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,git,github,vscode,figma" />
 </p>
 
 ---
 
-## `> current_focus`
+## `> currently`
 
 <table width="100%">
 <tr>
-<td align="center">
 
-**01**
+<td align="center" width="33%">
 
-<br>
+### `01`
 
-`Learning C`
-
-</td>
-
-<td align="center">
-
-**02**
+**Learning C**
 
 <br>
 
-`Practicing DSA`
+<sub>Understanding the fundamentals</sub>
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
-**03**
+### `02`
+
+**Practicing DSA**
 
 <br>
 
-`Building Projects`
+<sub>Getting better at problem solving</sub>
 
 </td>
+
+<td align="center" width="33%">
+
+### `03`
+
+**Building Projects**
+
+<br>
+
+<sub>Learning by actually making things</sub>
+
+</td>
+
 </tr>
 </table>
 
@@ -89,14 +126,17 @@ Currently exploring:
 ## `> github_stats`
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Subhashx17&show_icons=true&hide_border=true&theme=transparent&title_color=bb86fc&text_color=c9d1d9&icon_color=bb86fc"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhashx17&layout=compact&hide_border=true&theme=transparent&title_color=bb86fc&text_color=c9d1d9"
-    height="160"
-  />
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Subhashx17&show_icons=true&hide_border=true&theme=transparent&title_color=bb86fc&text_color=c9d1d9&icon_color=bb86fc"
+  height="160"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhashx17&layout=compact&hide_border=true&theme=transparent&title_color=bb86fc&text_color=c9d1d9"
+  height="160"
+/>
+
 </p>
 
 ---
@@ -104,24 +144,68 @@ Currently exploring:
 ## `> contribution_activity`
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Subhashx17&bg_color=0d1117&color=bb86fc&line=8b5cf6&point=ec4899&area=true&hide_border=true"
-    width="100%"
-  />
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Subhashx17&bg_color=0d1117&color=bb86fc&line=8b5cf6&point=ec4899&area=true&hide_border=true"
+  width="100%"
+/>
+
 </p>
 
 ---
 
 ## `> projects`
 
-| Project | Description |
-| :--- | :--- |
-| **Project 01** | Something I'm building |
-| **Project 02** | Something I'm experimenting with |
-| **Project 03** | Something I'm learning from |
+<table width="100%">
+<tr>
+
+<td width="33%" valign="top">
+
+### `01`
+
+**Project Name**
+
+Short description of the project.
+
+<br>
+
+`C` `Git`
+
+</td>
+
+<td width="33%" valign="top">
+
+### `02`
+
+**Project Name**
+
+Short description of the project.
+
+<br>
+
+`Python` `Git`
+
+</td>
+
+<td width="33%" valign="top">
+
+### `03`
+
+**Project Name**
+
+Short description of the project.
+
+<br>
+
+`HTML` `CSS`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 <p align="center">
-  <sub>Code • Learn • Build • Repeat.</sub>
+  <code>Code • Learn • Build • Repeat.</code>
 </p>
