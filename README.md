@@ -2,20 +2,7 @@
      SUBHASHX17 • GITHUB README
      ========================= -->
 
-<!-- =========================
-          HEADER
-     ========================= -->
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:05070d,35:0b1020,70:17112e,100:25103b&height=180&section=header"
-    width="100%"
-  />
-</p>
-
-<h1 align="center">
-  Subhash Koppula
-</h1>
+<h1 align="center">Subhash Koppula</h1>
 
 <p align="center">
   <code>Computer Science Student</code>
@@ -29,11 +16,9 @@
   <a href="https://github.com/Subhashx17">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white">
   </a>
-
   <a href="https://www.linkedin.com/in/sai-subhash-koppula-59b8193a1">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white">
   </a>
-
   <a href="mailto:saisubhashkoppula@gmail.com">
     <img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=white">
   </a>
@@ -41,18 +26,13 @@
 
 ---
 
-<!-- =========================
-           ABOUT
-     ========================= -->
-
 <table>
 <tr>
-
 <td width="28%" align="center" valign="middle">
 
 <img
   src="https://github.com/Subhashx17.png"
-  width="170"
+  width="180"
   alt="Subhash Koppula"
 />
 
@@ -68,10 +48,11 @@
 
 Hey, I'm **Subhash** 👋
 
-I'm a Computer Science student interested in building things,
-solving problems, and understanding how technology works.
+I'm a Computer Science student who enjoys understanding
+how things work, solving problems, and turning ideas into
+projects.
 
-Currently exploring:
+I'm currently focused on:
 
 - `C`
 - `Python`
@@ -80,18 +61,13 @@ Currently exploring:
 
 <br>
 
-> **Currently:** learning → building → breaking things → fixing them.
+**Currently:** learning → building → breaking things → fixing them.
 
 </td>
-
 </tr>
 </table>
 
 ---
-
-<!-- =========================
-        TECH STACK
-     ========================= -->
 
 ## `> tech_stack`
 
@@ -100,10 +76,6 @@ Currently exploring:
 </p>
 
 ---
-
-<!-- =========================
-       CURRENT FOCUS
-     ========================= -->
 
 ## `> currently`
 
@@ -151,10 +123,6 @@ Currently exploring:
 
 ---
 
-<!-- =========================
-        GITHUB STATS
-     ========================= -->
-
 ## `> github_stats`
 
 <p align="center">
@@ -173,10 +141,6 @@ Currently exploring:
 
 ---
 
-<!-- =========================
-     CONTRIBUTION ACTIVITY
-     ========================= -->
-
 ## `> contribution_activity`
 
 <p align="center">
@@ -189,10 +153,6 @@ Currently exploring:
 </p>
 
 ---
-
-<!-- =========================
-          PROJECTS
-     ========================= -->
 
 ## `> projects`
 
@@ -246,14 +206,6 @@ Short description of the project.
 
 ---
 
-<!-- =========================
-           FOOTER
-     ========================= -->
-
 <p align="center">
   <code>Code • Learn • Build • Repeat.</code>
-</p>
-
-<p align="center">
-  <sub>Thanks for stopping by.</sub>
 </p>
