@@ -2,7 +2,7 @@
      SUBHASHX17 • GITHUB README
      ========================= -->
 
-<h1 align="center">Subhash Koppula</h1>
+<h1 align="center">Nigga</h1>
 
 <p align="center">
   <code>Computer Science Student</code>
