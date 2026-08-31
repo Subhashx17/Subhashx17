@@ -16,9 +16,11 @@
   <a href="https://github.com/Subhashx17">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white">
   </a>
+
   <a href="https://www.linkedin.com/in/sai-subhash-koppula-59b8193a1">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white">
   </a>
+
   <a href="mailto:saisubhashkoppula@gmail.com">
     <img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=white">
   </a>
@@ -28,6 +30,7 @@
 
 <table>
 <tr>
+
 <td width="28%" align="center" valign="middle">
 
 <img
@@ -64,6 +67,7 @@ I'm currently focused on:
 **Currently:** learning → building → breaking things → fixing them.
 
 </td>
+
 </tr>
 </table>
 
@@ -126,11 +130,27 @@ I'm currently focused on:
 ## `> contribution_activity`
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Subhashx17&theme=github_dark"
-    width="100%"
-    alt="Subhash Koppula GitHub contribution graph"
-  />
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Subhashx17&show=reviews,discussions_started,discussions_answered,prs_merged&hide_title=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=8b5cf6&ring_color=8b5cf6"
+  width="100%"
+  alt="Subhash Koppula GitHub contribution activity"
+/>
+
+</p>
+
+---
+
+## `> contribution_calendar`
+
+<p align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Subhashx17&theme=github_dark"
+  width="100%"
+  alt="Subhash Koppula GitHub contribution calendar"
+/>
+
 </p>
 
 ---
