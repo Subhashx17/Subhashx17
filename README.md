@@ -125,17 +125,19 @@ I'm currently focused on:
 
 ---
 
+---
+
 ## `> contribution_activity`
 
 <p align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Subhashx17&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=ffffff&area=true&hide_border=true&custom_title=Weekly%20Contribution%20Activity"
-  width="100%"
-  alt="Subhash Koppula weekly GitHub contribution activity"
-/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Subhashx17&theme=github-compact&hide_border=true"
+    width="100%"
+    alt="Subhash Koppula GitHub contribution activity"
+  />
 </p>
+
+---
 
 ---
 
