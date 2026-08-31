@@ -1,6 +1,6 @@
 <!-- =========================
-     SUBHASHX17 • GITHUB README
-     ========================= -->
+    SUBHASHX17 • GITHUB README
+    ========================= -->
 
 <h1 align="center">Subhash Koppula</h1>
 
@@ -125,21 +125,13 @@ I'm currently focused on:
 
 ## `> contribution_activity`
 
----
-
-## `> contribution_activity`
-
 <p align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Subhashx17&theme=github-compact&hide_border=true"
-  width="100%"
-  alt="GitHub Contribution Activity"
-/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Subhashx17&theme=github-compact&hide_border=true&area=true"
+    width="100%"
+    alt="Subhash Koppula's GitHub activity graph"
+  />
 </p>
-
----
 
 ---
 
