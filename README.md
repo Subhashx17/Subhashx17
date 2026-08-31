@@ -16,11 +16,9 @@
   <a href="https://github.com/Subhashx17">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white">
   </a>
-
   <a href="https://www.linkedin.com/in/sai-subhash-koppula-59b8193a1">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white">
   </a>
-
   <a href="mailto:saisubhashkoppula@gmail.com">
     <img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=white">
   </a>
@@ -132,78 +130,12 @@ I'm currently focused on:
 <p align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Subhashx17&show=reviews,discussions_started,discussions_answered,prs_merged&hide_title=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=8b5cf6&ring_color=8b5cf6"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Subhashx17&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=ffffff&area=true&hide_border=true&custom_title=Weekly%20Contribution%20Activity"
   width="100%"
-  alt="Subhash Koppula GitHub contribution activity"
+  alt="Subhash Koppula weekly GitHub contribution activity"
 />
 
 </p>
-
----
-
-## `> contribution_calendar`
-
-<p align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Subhashx17&theme=github_dark"
-  width="100%"
-  alt="Subhash Koppula GitHub contribution calendar"
-/>
-
-</p>
-
----
-
-## `> projects`
-
-<table width="100%">
-<tr>
-
-<td width="33%" valign="top">
-
-### `01`
-
-**Project Name**
-
-Short description of the project.
-
-<br>
-
-`C` `Git`
-
-</td>
-
-<td width="33%" valign="top">
-
-### `02`
-
-**Project Name**
-
-Short description of the project.
-
-<br>
-
-`Python` `Git`
-
-</td>
-
-<td width="33%" valign="top">
-
-### `03`
-
-**Project Name**
-
-Short description of the project.
-
-<br>
-
-`HTML` `CSS`
-
-</td>
-
-</tr>
-</table>
 
 ---
 
