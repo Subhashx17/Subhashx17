@@ -127,9 +127,9 @@ I'm currently focused on:
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Subhashx17&theme=github-compact&hide_border=true&area=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Subhashx17&theme=github_dark"
     width="100%"
-    alt="Subhash Koppula's GitHub activity graph"
+    alt="Subhash Koppula GitHub contribution graph"
   />
 </p>
 
