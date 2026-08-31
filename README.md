@@ -127,16 +127,21 @@ I'm currently focused on:
 
 ---
 
+---
+
 ## `> contribution_activity`
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Subhashx17&theme=github-compact&hide_border=true"
-    width="100%"
-    alt="Subhash Koppula GitHub contribution activity"
-  />
+  <a href="https://github.com/Subhashx17">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Subhashx17"
+      alt="Subhash Koppula's GitHub Activity Graph"
+      width="100%"
+    />
+  </a>
 </p>
 
+---
 ---
 
 ---
