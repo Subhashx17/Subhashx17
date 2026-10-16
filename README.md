@@ -88,29 +88,18 @@ I'm currently focused on:
 
 ### `01`
 
-**Learning C**
+**Learning Js**
 
 <br>
 
-<sub>Understanding the fundamentals</sub>
+<sub></sub>
 
 </td>
 
 <td align="center" width="33%">
+
 
 ### `02`
-
-**Practicing DSA**
-
-<br>
-
-<sub>Getting better at problem solving</sub>
-
-</td>
-
-<td align="center" width="33%">
-
-### `03`
 
 **Building Projects**
 
